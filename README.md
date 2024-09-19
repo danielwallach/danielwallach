@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu perfil 😁
+## Welcome to my profile 🖖
 
  <div>
    <a href="https://github.com/danielwallach">
@@ -14,7 +14,7 @@
  
 <br>
  
-### minhas redes de contato
+### My Social Networks
  
 <div> 
   
